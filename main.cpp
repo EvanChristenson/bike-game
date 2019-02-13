@@ -4,6 +4,6 @@ if (user.wins == true){
 std ::cout <<"You won!!";
 }
 else {
-std:: "You suck!!"
+std::cout<< "You suck!!"
 }
 }
